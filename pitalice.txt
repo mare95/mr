@@ -1,0 +1,16 @@
+1. Klasa C
+2
+a.Netacno
+b.Netacno
+c.Netacno
+d.Netacno
+e.Netacno
+f.Netacno
+
+3.30 hostova na svakoj
+4.192.168.32.255
+5.za 96 bitova
+6.1000 0000 do 1011 1111
+7.klasa A
+8.default gateway -nam dozvoljava. mrezni id 192.168.1.64 pa def.gateway moze biti bilo koja adresa sa ovim mreznim ID-jem
+9.10.1.1.0
