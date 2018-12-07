@@ -77,6 +77,8 @@ public class OReillyByName {
 	public static void main(String[] args) {
 		// OVO JE ZADATAK IZ JAVE?????
 		MOZE NEKO DA ODGOVORI DA LI JE OVO ZADATAK IZ JAVE ??????????
+			
+			izgleda da jeste ali da treba da se menja fja koja moza da pristupa http
 //		try {
 //			InetAddress math = InetAddress.getByName("www.math.rs");
 //			InetAddress matf = InetAddress.getByName("www.matf.bg.ac.rs");
