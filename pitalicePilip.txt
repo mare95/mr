@@ -1,0 +1,17 @@
+1. klasa C
+2.
+ a) netacno
+ b) netacno
+ c) nisam siguran
+ d) netacno
+ e) netacno
+ f) netacno
+3. 30 hostova na svakoj
+4. 192.168.32.255
+5. za 32 bita
+6. 128 - 191
+7. klasa A
+8. 192.168.1.65 - 192.168.1.78
+
+
+nek neko proveri pls i nek ispravi
