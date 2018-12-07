@@ -75,6 +75,7 @@ public class OReillyByName {
 	}
 
 	public static void main(String[] args) {
+		// OVO JE ZADATAK IZ JAVE?????
 //		try {
 //			InetAddress math = InetAddress.getByName("www.math.rs");
 //			InetAddress matf = InetAddress.getByName("www.matf.bg.ac.rs");
