@@ -1,0 +1,24 @@
+package klk;
+
+import java.util.*;
+
+public class Klk2 {
+
+	public static void main(String[] args) {
+		Scanner s = new Scanner(System.in);
+		String input = s.nextLine();
+		String replacedAt = input.replaceAll("at", "@"); 
+		if (replacedAt.indexOf("nospam") == 0) {
+			String withoutOnStart = replacedAt.substring(6);
+			System.out.println(replacedAt);
+			System.out.println(withoutOnStart);
+		} else if (replacedAt.length() - 6 == replacedAt.indexOf("nospam")) {
+			System.out.println(replacedAt);
+			String withoutOnEnd = replacedAt.substring(0, replacedAt.indexOf("nospam"));
+			System.out.println(withoutOnEnd);
+		} else {
+			System.out.println(replacedAt);
+		}
+	}
+
+}
